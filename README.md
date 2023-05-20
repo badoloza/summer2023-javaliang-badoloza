@@ -2,6 +2,9 @@
 
 I will be diving into an introduction of Java programming
 
+# Source
+Introduction to JAVA Programming 9th edition by Y. Daniel Liang
+
 # Status
 
 | Fundamentals of Programming | C/NC          |
@@ -52,9 +55,6 @@ I will be diving into an introduction of Java programming
 | Chapter 44                | not completed |
 | Chapter 45                | not completed |
 | Chapter 46                | not completed |
-
-# Source
-Introduction to JAVA Programming 9th edition by Y. Daniel Liang 
 
 # Purpose
 The purpose for this project is to learn the fundamentals of the Java programming language
