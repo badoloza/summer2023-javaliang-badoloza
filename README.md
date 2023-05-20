@@ -16,33 +16,42 @@ I will be diving into an introduction of Java programming
 
 | Object-Oriented Programming | C/NC          |
 |-----------------------------|---------------|
-| Chapter 1                   | not completed |
-| Chapter 2                   | not completed |
-| Chapter 3                   | not completed |
-| Chapter 4                   | not completed |
-| Chapter 5                   | not completed |
-| Chapter 6                   | not completed |
-| Chapter 7                   | not completed |
+| Chapter 8                   | not completed |
+| Chapter 9                   | not completed |
+| Chapter 10                  | not completed |
+| Chapter 11                  | not completed |
+| Chapter 14                  | not completed |
+| Chapter 15                  | not completed |
+| Chapter 19                  | not completed |
 
 | Data Structures and Algorithms | C/NC          |
 |--------------------------------|---------------|
-| Chapter 1                      | not completed |
-| Chapter 2                      | not completed |
-| Chapter 3                      | not completed |
-| Chapter 4                      | not completed |
-| Chapter 5                      | not completed |
-| Chapter 6                      | not completed |
-| Chapter 7                      | not completed |
+| Chapter 20                     | not completed |
+| Chapter 21                     | not completed |
+| Chapter 22                     | not completed |
+| Chapter 23                     | not completed |
+| Chapter 24                     | not completed |
+| Chapter 25                     | not completed |
+| Chapter 26                     | not completed |
+| Chapter 27                     | not completed |
+| Chapter 28                     | not completed |
+| Chapter 29                     | not completed |
+| Chapter 30                     | not completed |
+| Chapter 31                     | not completed |
+| Chapter 47                     | not completed |
+| Chapter 48                     | not completed |
 
 | Advanced Java Programming | C/NC          |
 |---------------------------|---------------|
-| Chapter 1                 | not completed |
-| Chapter 2                 | not completed |
-| Chapter 3                 | not completed |
-| Chapter 4                 | not completed |
-| Chapter 5                 | not completed |
-| Chapter 6                 | not completed |
-| Chapter 7                 | not completed |
+| Chapter 32                | not completed |
+| Chapter 33                | not completed |
+| Chapter 34                | not completed |
+| Chapter 41                | not completed |
+| Chapter 42                | not completed |
+| Chapter 43                | not completed |
+| Chapter 44                | not completed |
+| Chapter 45                | not completed |
+| Chapter 46                | not completed |
 
 # Source
 Introduction to JAVA Programming 9th edition by Y. Daniel Liang 
