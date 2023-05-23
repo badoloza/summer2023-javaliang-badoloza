@@ -58,7 +58,7 @@ Introduction to JAVA Programming 9th edition by Y. Daniel Liang
 
 # Purpose
 The purpose for this project is to learn the fundamentals of the Java programming language
-and get a deep-level understand of fundamentals
+and get a deep-level understanding of Java
 
 # Goal
 The goal of this project is to read every chapter and complete 10 programming exercise
