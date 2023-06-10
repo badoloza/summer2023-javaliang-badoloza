@@ -1,3 +1,18 @@
+/**
+ * Requirements Specification:
+ * The program must print the following pattern to console:
+ *              J     A     V     V     A
+ *              J    A A     V   V     A A
+ *         J    J   AAAAA     V V     AAAAA
+ *          J  J   A     A     V     A     A
+ *
+ * System Analysis:
+ * The program outputs the pattern to console
+ *
+ * System Design:
+ * Use System class to print required pattern
+ */
+
 package Chapter1.ProgrammingExercises;
 
 public class PE3 {
