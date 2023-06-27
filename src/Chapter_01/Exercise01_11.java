@@ -7,9 +7,9 @@
  * 1 new immigrant every 45 seconds
  */
 
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
-public class PE11 {
+public class Exercise01_11 {
     public static void main(String[] args) {
 
     }

@@ -1,4 +1,4 @@
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
 /**
  * Requirements Specification:
@@ -14,7 +14,7 @@ package Chapter1.ProgrammingExercises;
  * Use System class to print each message
  */
 
-public class PE1 {
+public class Exercise01_01 {
     public static void main(String[] args) {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Computer Science");

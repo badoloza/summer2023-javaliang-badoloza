@@ -9,9 +9,9 @@
  * Use System class to print "Welcome to Java" 5 times
  */
 
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
-public class PE2 {
+public class Exercise01_02 {
     public static void main(String[] args) {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Java");

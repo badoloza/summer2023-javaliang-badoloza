@@ -6,9 +6,9 @@
  * area = radius * radius * pi
  */
 
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
-public class PE8 {
+public class Exercise01_08 {
     public static void main(String[] args) {
         System.out.print("perimeter = ");
         System.out.println(2 * 5.5 * 3.14);

@@ -6,9 +6,9 @@
  * perimeter = 2 * width + 2 * height
  */
 
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
-public class PE9 {
+public class Exercise01_09 {
     public static void main(String[] args) {
         System.out.print("the perimeter is ");
         System.out.println((2 * 4.5) + (2 * 7.9));

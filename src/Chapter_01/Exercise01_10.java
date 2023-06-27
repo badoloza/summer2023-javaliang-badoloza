@@ -5,9 +5,9 @@
  * note: 1 mile = 1.6 km
  */
 
-package Chapter1.ProgrammingExercises;
+package Chapter_01;
 
-public class PE10 {
+public class Exercise01_10 {
     public static void main(String[] args) {
         System.out.println((14 / 1.6) / (45.5 / 60));
     }
