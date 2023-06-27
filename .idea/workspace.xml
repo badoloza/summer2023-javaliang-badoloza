@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858b1219-25b6-49ce-8509-59010127af42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/Listings/Listing1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/ProgrammingExercises/PE9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter_01/Exercise01_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/Exercise01_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +39,20 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PE11">
+  <component name="RunManager" selected="Application.Exercise01_11">
+    <configuration name="Exercise01_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_01.Exercise01_11" />
+      <module name="Summer2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PE10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter1.ProgrammingExercises.PE10" />
       <module name="Summer2023" />
@@ -67,19 +68,6 @@
     </configuration>
     <configuration name="PE11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter1.ProgrammingExercises.PE11" />
-      <module name="Summer2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter1.ProgrammingExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PE7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1.ProgrammingExercises.PE7" />
       <module name="Summer2023" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise01_11" />
         <item itemvalue="Application.PE11" />
         <item itemvalue="Application.PE10" />
         <item itemvalue="Application.PE9" />
         <item itemvalue="Application.PE8" />
-        <item itemvalue="Application.PE7" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +135,7 @@
       <workItem from="1687141965457" duration="83000" />
       <workItem from="1687378151107" duration="158000" />
       <workItem from="1687721343957" duration="2025000" />
-      <workItem from="1687810360626" duration="1980000" />
+      <workItem from="1687810360626" duration="4147000" />
     </task>
     <servers />
   </component>
