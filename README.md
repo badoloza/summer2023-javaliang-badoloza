@@ -1,15 +1,19 @@
 # Summer 2023 Java Programming
 
-I will be diving into an introduction of Java programming
+I will be diving into an introduction of Java programming and solving
+end-of-chapter programming exercises
+
+I will solve each question using the acquired knowledge from 
+reading each chapter
 
 # Source
-Introduction to JAVA Programming 9th edition by Y. Daniel Liang
+Introduction to JAVA Programming 12th edition by Y. Daniel Liang
 
 # Status
 
 | Fundamentals of Programming | C/NC          |
 |-----------------------------|---------------|
-| Chapter 1                   | not completed |
+| Chapter 1                   | completed     |
 | Chapter 2                   | not completed |
 | Chapter 3                   | not completed |
 | Chapter 4                   | not completed |
