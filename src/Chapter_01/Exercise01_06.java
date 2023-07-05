@@ -1,3 +1,5 @@
+package Chapter_01;
+
 /**
  * Requirements Specification:
  * Program must display result of:
@@ -9,8 +11,6 @@
  * System Design:
  * Use System class' println method to print expression to console
  */
-
-package Chapter_01;
 
 public class Exercise01_06 {
     public static void main(String[] args) {

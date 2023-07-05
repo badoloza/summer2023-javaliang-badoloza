@@ -1,3 +1,5 @@
+package Chapter_01;
+
 /*
  * This program displays the area and perimeter of circle
  * with radius 5.5
@@ -5,8 +7,6 @@
  * perimeter = 2 * radius * pi
  * area = radius * radius * pi
  */
-
-package Chapter_01;
 
 public class Exercise01_08 {
     public static void main(String[] args) {

@@ -1,15 +1,10 @@
+package Chapter_01;
+
 /**
- * @description
  * This program displays the solution of the following 2 X 2 linear equation:
  * 3.4x + 50.2y = 44.5
  * 2.1x + .55y = 5.9
- *
- * @author badoloza
- * @version 1.0
- * @since 7/2/23
  */
-
-package Chapter_01;
 
 public class Exercise01_13 {
     public static void main(String[] args) {

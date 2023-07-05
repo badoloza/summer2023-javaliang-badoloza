@@ -1,3 +1,5 @@
+package Chapter_01;
+
 /**
  * Requirements Specification:
  * The program must print the following table to console
@@ -13,8 +15,6 @@
  * System Design:
  * Use System class to print required table to console
  */
-
-package Chapter_01;
 
 public class Exercise01_04 {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Chapter_01;
+
 /*
  * This program displays the population for each of the next five years
  * Current population: 312,032,486
@@ -11,8 +13,6 @@
  * for example: instead of ((60 * 60 * 24 * 365) / 7)
  * do: ((60 * 60 * 24 * 365) / 7.0)
  */
-
-package Chapter_01;
 
 public class Exercise01_11 {
     public static void main(String[] args) {

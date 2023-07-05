@@ -1,3 +1,5 @@
+package Chapter_01;
+
 /**
  * Requirements Specification:
  * The program must print the following pattern to console:
@@ -12,8 +14,6 @@
  * System Design:
  * Use System class to print required pattern
  */
-
-package Chapter_01;
 
 public class Exercise01_03 {
     public static void main(String[] args) {
