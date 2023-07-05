@@ -1,6 +1,6 @@
 package Chapter_01;
 
-/*
+/**
  * This program displays the area and perimeter of circle
  * with radius 5.5
  * Using the following formula:

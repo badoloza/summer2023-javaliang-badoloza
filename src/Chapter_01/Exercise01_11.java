@@ -1,6 +1,6 @@
 package Chapter_01;
 
-/*
+/**
  * This program displays the population for each of the next five years
  * Current population: 312,032,486
  * 1 year = 365 days

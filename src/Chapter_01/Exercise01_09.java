@@ -1,6 +1,6 @@
 package Chapter_01;
 
-/*
+/**
  * This program displays the area and perimeter of a rectangle
  * with a width of 4.5 and height of 7.9
  * using following formula:

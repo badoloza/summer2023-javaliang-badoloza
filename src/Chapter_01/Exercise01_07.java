@@ -1,6 +1,6 @@
 package Chapter_01;
 
-/*
+/**
  * This program displays the result of an approximation of PI
  * Using these formulas:
  * 4 * (1 - (1 / 3) + (1 / 5) - (1 / 7) + (1 / 9) - (1 / 11))

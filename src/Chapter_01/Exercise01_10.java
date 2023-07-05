@@ -1,6 +1,6 @@
 package Chapter_01;
 
-/*
+/**
  * This program displays the average speed in miles per hour
  * of a runner who runs 14 km in 45 minutes and 30 seconds
  *
