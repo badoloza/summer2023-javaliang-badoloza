@@ -31,6 +31,6 @@ public class Exercise02_09 {
         double acceleration = (velocity1 - velocity0) / time;
 
         // displaying average acceleration to console
-        System.out.println("The average acceleration is " + (int)(acceleration * 10000) / 10000.0);
+        System.out.println("The average acceleration is " + (int)(acceleration * 10000 + 0.5) / 10000.0);
     }
 }
