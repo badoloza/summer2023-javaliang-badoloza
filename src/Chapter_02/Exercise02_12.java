@@ -17,7 +17,7 @@ package Chapter_02;
  * 2. It must display the minimum runway length
  *
  * System Analysis:
- * The out of this program is the minimum runway length
+ * The output of this program is the minimum runway length
  * which can be obtained by the following formula:
  *
  * length = v^(2) / (2a)
