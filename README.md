@@ -14,7 +14,7 @@ Introduction to JAVA Programming 12th edition by Y. Daniel Liang
 | Fundamentals of Programming | C/NC          |
 |-----------------------------|---------------|
 | Chapter 1                   | completed     |
-| Chapter 2                   | not completed |
+| Chapter 2                   | completed     |
 | Chapter 3                   | not completed |
 | Chapter 4                   | not completed |
 | Chapter 5                   | not completed |
