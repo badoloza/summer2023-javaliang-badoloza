@@ -15,7 +15,8 @@ public class Exercise03_08 {
         int number2 = input.nextInt();
         int number3 = input.nextInt();
 
-        System.out.println(number1 + " " + number2 + " " + number3);
+        System.out.print("Displaying |" + number1 + " " + number2 + " " + number3 + "| in " +
+                "non-decreasing order: ");
 
         if (number1 > number2) {
             int temporaryNumber = number1;
@@ -33,7 +34,6 @@ public class Exercise03_08 {
             number2 = number3;
             number3 = temporaryNumber;
         }
-
-        System.out.println(number1 + " " + number2 + " " + number3);
+        System.out.println("|" + number1 + " " + number2 + " " + number3 + "|");
     }
 }
