@@ -16,5 +16,24 @@ public class Exercise03_08 {
         int number3 = input.nextInt();
 
         System.out.println(number1 + " " + number2 + " " + number3);
+
+        if (number1 > number2) {
+            int temporaryNumber = number1;
+            number1 = number2;
+            number2 = temporaryNumber;
         }
+        if (number1 > number3) {
+            int temporaryNumber = number1;
+            number1 = number3;
+            number3 = temporaryNumber;
+        }
+
+        if (number2 > number3) {
+            int temporaryNumber = number2;
+            number2 = number3;
+            number3 = temporaryNumber;
+        }
+
+        System.out.println(number1 + " " + number2 + " " + number3);
     }
+}
