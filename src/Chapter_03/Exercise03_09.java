@@ -21,16 +21,25 @@ public class Exercise03_09 {
 
         System.out.print("Enter the first 9 digits of an ISBN as integer: ");
         int isbn = input.nextInt();
+        int remainingDigits = isbn;
 
-        int digit1 = 0;
-        int digit2 = 0;
-        int digit3 = 0;
-        int digit4 = 0;
-        int digit5 = 0;
-        int digit6 = 0;
-        int digit7 = 0;
-        int digit8 = 0;
-        int digit9 = 0;
+        int digit1 = remainingDigits / 100000000;
+        remainingDigits %= 100000000;
+        int digit2 = remainingDigits / 10000000;
+        remainingDigits %= 10000000;
+        int digit3 = remainingDigits / 1000000;
+        remainingDigits %= 1000000;
+        int digit4 = remainingDigits / 100000;
+        remainingDigits %= 100000;
+        int digit5 = remainingDigits / 10000;
+        remainingDigits %= 10000;
+        int digit6 = remainingDigits / 1000;;
+        remainingDigits %= 1000;
+        int digit7 = remainingDigits / 100;;
+        remainingDigits %= 100;
+        int digit8 = remainingDigits / 10;;
+        remainingDigits %= 10;
+        int digit9 = remainingDigits;
 
         int checksum = (digit1 + (digit2 * 2) + (digit3 * 3) + (digit4 * 4) + (digit5 * 5) + (digit6 * 6)
                 + (digit7 * 7) + (digit8 * 8) + (digit9 * 9)) % 11;
