@@ -6,8 +6,6 @@ package Chapter_03;
  * If the user entered month 3 and year 2015, the program should display that March 2015 has 31 days.
  */
 
-import com.sun.security.jgss.GSSUtil;
-
 import java.util.Scanner;
 public class Exercise03_11 {
     public static void main(String[] args) {
