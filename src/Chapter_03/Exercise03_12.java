@@ -14,6 +14,21 @@ public class Exercise03_12 {
 
         System.out.print("Enter a three-digit integer (e.g., 123): ");
         int number = input.nextInt();
+        int remainingNumber = number;
 
+        int onesDigit = number % 10;
+        remainingNumber /= 10;
+
+        int tensDigit = remainingNumber % 10;
+        remainingNumber /= 10;
+
+        int hundredsDigit = remainingNumber;
+
+        if (onesDigit == hundredsDigit) {
+            System.out.println(number + " is a palindrome");
+        }
+        else {
+            System.out.println(number + " is not a palindrome");
+        }
     }
 }
